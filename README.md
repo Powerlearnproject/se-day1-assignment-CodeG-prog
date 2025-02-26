@@ -11,7 +11,8 @@ It is important in the development of structured and disciplined approaches to d
 
  SE Era I: Mastering the Machine (1956–1967)-This era led to the evolution up to the definition of the first low-level Computer Aided Software Engineering tools (CASE tools) facilitating interactive editing, compiling, and debugging.
  SE Era II: Mastering the Process (1968–1982)-An important contribution of this stage was the formal modeling approach that enables implementation automation. In this era, structured methods as such as Software Requirement Engineering Methodology (SREM) and the Structured Analysis and Design Technique (SADT) were developed allowing the development of specification documents for business management software.
-
+ Mastering the Productivity (2002–2010)-New tools enabling analysis level programming, such as Model Driven Architecture (MDA) appeared in this stage. The other major significant period in this stage was marked by the emergence of agile methodologies.
+ 
  
 #List and briefly explain the phases of the Software Development Life Cycle.
 
